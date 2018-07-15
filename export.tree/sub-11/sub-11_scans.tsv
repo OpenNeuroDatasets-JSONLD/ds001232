@@ -1,0 +1,12 @@
+filename	acq_time
+func/sub-11_task-phase1_run-01_bold.nii.gz	16:19:16.777500
+func/sub-11_task-phase1_run-02_bold.nii.gz	16:25:20.010000
+func/sub-11_task-phase1_run-03_bold.nii.gz	16:31:23.400000
+func/sub-11_task-phase1_run-04_bold.nii.gz	16:38:2.062500
+func/sub-11_task-phase2_run-01_bold.nii.gz	16:45:2.602500
+func/sub-11_task-phase2_run-02_bold.nii.gz	16:52:35.822500
+func/sub-11_task-phase2_run-03_bold.nii.gz	17:00:9.695000
+func/sub-11_task-phase2_run-04_bold.nii.gz	17:07:47.225000
+func/sub-11_task-phase2_run-05_bold.nii.gz	17:15:23.777500
+func/sub-11_task-phase2_run-06_bold.nii.gz	17:23:15.797500
+anat/sub-11_T1w.nii.gz	17:33:27.095000
